@@ -36,8 +36,8 @@ Records: Campaign details such as category, goal, pledged amount, country, and s
 
 📈 Dashboard / Visualizations
 
-![Success Rate](images/success_rate.png)  
-![Category Analysis](images/category_success.png)
+!PowerBI Dashboard (images/PowerBI Dashboard 1.png)  
+!Tableau Dashboard(images/Tableau Dashboard 1.png)
 
 💡 Key Insights
 
