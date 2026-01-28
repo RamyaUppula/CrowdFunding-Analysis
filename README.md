@@ -36,8 +36,10 @@ Records: Campaign details such as category, goal, pledged amount, country, and s
 
 📈 Dashboard / Visualizations
 
-!PowerBI Dashboard (images/PowerBI Dashboard 1.png)  
-!Tableau Dashboard(images/Tableau Dashboard 1.png)
+!Tableau Dashboard![Uploading Tableau Dashboard 1.jpg…]()
+
+!PowerBI Dashboard ![Uploading PowerBI Dashboard 1.png…]()
+
 
 💡 Key Insights
 
